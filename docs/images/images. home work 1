@@ -1,0 +1,29 @@
+
+<html>
+<head>
+<style>
+body {
+  background-color: lightgreen;
+}
+</style>
+</head>
+
+
+
+<body>
+<figure>
+<img
+	src="week 4 examples (1)/calibri.png"
+	alt="calibri"
+	title="calibri"
+	width="600" height="500"
+	align="middle"
+
+/>
+<figcaption>PNG height 200px</figcaption>
+</figure>
+
+
+
+</body>
+</html>
