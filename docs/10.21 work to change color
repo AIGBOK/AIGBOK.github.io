@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	body {
+	font-family: arial;
+	background-color: #AEB6BF;}
+	h1 {color: #595959;
+	opacity: 0.5;
+}
+	h2 {color: #9300FF;}
+	h3 {color: #00B800;
+		font-size: 60px}
+	p {color: rgb(185, 119, 14);}
+#firstname {
+	background-color: yellow;
+	opacity: 1;
+
+}	
+
+#myown {
+	background-color:#D100D1;
+	opacity: 0.7;}
+#theThird {
+	background-color:#00EBEB;}
+
+
+</style>
+</head>
+
+
+
+<body>
+<h1>HTML elements properties example</h1>
+<h2>a opacity of 0.5 is still clear. </h2>
+<h3>we can set the size of text</h3>
+<p>Rulles applied to a paragraph are also applied <b>to other elements</b> <u>inside of the paragraph</u>.</p>
+<div class = "intro">
+	<p  id = "firstname"> this is the test number 2</p>
+</div>
+
+<div class = "intro">
+	<p id = "myown"> and this is testing whether to put another word text. </p>
+<div class = "intro">
+	<p id = "theThird"> and this is the another one p </p>
+
+
+</div>
+
+</body>
+</html>
