@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+
+
+<style type="text/css">
+	body {
+	font-family: arial;
+	background-color: #AEB6BF;}
+	h1 {color: #595959;
+	opacity: 0.5;
+}
+	h2 {color: #9300FF;}
+	h3 {color: #00B800;
+		font-size: 60px}
+	p {color: rgb(185, 119, 14);}
+</style>
+
+
+
+<body>
+<a href="/">my farm</a>
+	&middot;
+<a href="https://www.google.com">about us</a>
+	&middot;
+
+<h1>My Pitaya farm </h1>
+<p>	
+	<img    
+	src="8625.jpg"
+	alt="Pitaya"
+	title="Pitaya"
+	width="300"  
+	align="middle">    <!height="500">
+
+這是我們家種的火龍果--大紅一號
+</p>
+<!hr / >
+<p>	
+<img    
+	src="8633.jpg"
+	alt="Pitaya flower"
+	title="Pitaya flower"
+	width="300"  
+	align="left">    <!height="500">
+<ul>	
+<dt> 我們的特色</dt>
+	<li>i can sleep to 11 o'clock although i may fail the morning class .  </li>
+	<li>i can choose the activity after class although i have to do part time job to pay for my dinner. </li>
+	<li>i can go to the gym by free although it's opening time is suck. </li>
+	<li>i can choose the main subject i love to study only if my score is great. </li>
+	<li>i can pay for the Financial management class although i don't have any money left to manage.</li>
+</ul>
+
+
+
+
+
+</body>
+</html>
